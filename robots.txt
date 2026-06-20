@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://Vinayak_Gupta.github.io/sitemap.xml
